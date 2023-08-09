@@ -8,14 +8,14 @@ Data's true power is its ability to definitively answer questions. So, let's tak
 - API used: https://openweathermap.org/api
 - Also used the citypy Python library: https://pypi.org/project/citipy/
 
-My scripts can be found in the folder 'WeatherPy'. The output_data folder contains a csv file of the data obtained from the APIs at the time of writing script and output png files of the graphs created based on the city data collected.  
+My scripts can be found in the folder 'WeatherPy'. The output_data folder contains a csv file of the data (random list of cities and their coordinates, temperature, wind speed, and other details) obtained from the API at the time of writing script and output png files of the graphs/plots created based on the city data collected.  
 
 ...
 
 Resources:  
 - https://stackoverflow.com/questions/8213522/when-to-use-cla-clf-or-close-for-clearing-a-plot
 - https://openweathermap.org/current
-- ...
+- https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.linregress.html
 
 Thank you:  
 To my instructor, TA's and central graders.
